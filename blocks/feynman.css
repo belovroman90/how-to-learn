@@ -1,9 +1,10 @@
 .feynman {
-  padding-top: 80px;
-  background-color: #f2f2f2;
+  padding-top: 150px;
   min-height: 790px;
   position: relative;
-  background-repeat: no-repeat;
+  background-image:
+  linear-gradient(to top, rgba(117, 138, 255, 0.4), rgba(255, 255, 255, 0.8)),
+   url(../images/2.jpg);
+  background-size: cover;
   background-position: left bottom;
-  background-size: 867px 637px;
 }
